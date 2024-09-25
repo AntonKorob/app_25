@@ -1,0 +1,10 @@
+.container{
+    /* background: rgb(199, 213, 243); */
+    height: 855px;
+}
+
+.footer {
+    background-color: var(--footer);
+    position: sticky;
+    top: 100vh;
+}
